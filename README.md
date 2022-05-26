@@ -13,5 +13,5 @@
 -   All the services of the platform are containerized (running in docker)
 
 ![Iot platform](https://github.com/Parul01/Iot-Based-Distributed-Platform/blob/main/bigPicture.PNG?raw=true)
-![Iot platform](https://github.com/Parul01/Iot-Based-Distributed-Platform/blob/main/iot-platform.png?raw=true)
+![Iot platform](https://github.com/Parul01/Iot-Based-Distributed-Platform/blob/main/iot_platform.png?raw=true)
 
